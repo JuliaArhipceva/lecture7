@@ -1,4 +1,4 @@
-package by.example.lecture16.counter;
+package by.example.lecture17.counter;
 
 import java.util.ArrayList;
 import java.util.List;
